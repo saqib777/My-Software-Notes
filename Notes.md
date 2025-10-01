@@ -1,6 +1,6 @@
 **Softwar Testing Notes**
 
-**Description: All the answers and statements are my own and are not copied from any AI or Textbook. **
+**Description: All the answers and statements are my own and are not copied from any AI or Textbook.**
 
 Software Testing: It is a process to validate the software and check if it meets all the requirements, the aim of software testing is not just to validate but also it aims to find any error occured in software so to avoid any sort of issues/probelms while the users use it. 
 
