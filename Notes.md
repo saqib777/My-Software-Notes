@@ -12,5 +12,7 @@ Errors:
 - If a site works on chrome but not on FireFox, its a compatibility issue.
 - If clicking on "Buy Now" crashes the app, its a critical bug.
 
+ Software Development Life Cycle"
+
  
 
